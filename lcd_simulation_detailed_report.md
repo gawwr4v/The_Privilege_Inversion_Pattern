@@ -25,7 +25,7 @@ Throughout the report, I focus on three recurring questions:
 
 ## 1. Executive Summary
 
-This notebook is an **illustrative, literature-grounded simulation benchmark** supporting *The Privilege Inversion Pattern: A Cross-Stage Framework for Data Contamination in Agentic AI Architectures*. It is not trying to be a production benchmark, and it is not trying to validate a complete defense stack. Instead, it is trying to make the paper’s mechanism-level claims concrete and easier to understand.
+This notebook is an **illustrative, literature-grounded simulation benchmark** supporting *Privilege Inversion Pattern: A Cross-Stage Framework for Data Contamination in Agentic AI*. It is not trying to be a production benchmark, and it is not trying to validate a complete defense stack. Instead, it is trying to make the paper’s mechanism-level claims concrete and easier to understand.
 
 At a high level, the notebook contains **four simulations**, each aligned with one stage of the paper’s pipeline view of contamination:
 
