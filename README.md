@@ -1,6 +1,6 @@
 # LCD Simulation Artifact
 
-This folder is ready to be pushed to GitHub as the public simulation artifact for *The Privilege Inversion Pattern: A Cross-Stage Framework for Data Contamination in Agentic AI Architectures*.
+This folder is ready to be pushed to GitHub as the public simulation artifact for *Privilege Inversion Pattern: A Cross-Stage Framework for Data Contamination in Agentic AI*.
 
 ## Contents
 
